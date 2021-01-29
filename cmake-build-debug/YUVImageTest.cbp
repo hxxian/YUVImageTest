@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="YUVImageTest"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/workplace_cpp/YUVImageTest/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/coding_soft/mingw64/bin/mingw32-make.exe -f &quot;D:/workplace_cpp/YUVImageTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/coding_soft/mingw64/bin/mingw32-make.exe -f &quot;D:/workplace_cpp/YUVImageTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/coding_soft/mingw64/bin/mingw32-make.exe -f &quot;D:/workplace_cpp/YUVImageTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/coding_soft/mingw64/bin/mingw32-make.exe -f &quot;D:/workplace_cpp/YUVImageTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/workplace_cpp/YUVImageTest/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/coding_soft/mingw64/bin/mingw32-make.exe -f &quot;D:/workplace_cpp/YUVImageTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/coding_soft/mingw64/bin/mingw32-make.exe -f &quot;D:/workplace_cpp/YUVImageTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/coding_soft/mingw64/bin/mingw32-make.exe -f &quot;D:/workplace_cpp/YUVImageTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/coding_soft/mingw64/bin/mingw32-make.exe -f &quot;D:/workplace_cpp/YUVImageTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="YUVImageTest">
+				<Option output="D:/workplace_cpp/YUVImageTest/cmake-build-debug/YUVImageTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/workplace_cpp/YUVImageTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/coding_soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/coding_soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/coding_soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/coding_soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/coding_soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/coding_soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/coding_soft/mingw64/bin/mingw32-make.exe -f &quot;D:/workplace_cpp/YUVImageTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 YUVImageTest"/>
+					<CompileFile command="D:/coding_soft/mingw64/bin/mingw32-make.exe -f &quot;D:/workplace_cpp/YUVImageTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/coding_soft/mingw64/bin/mingw32-make.exe -f &quot;D:/workplace_cpp/YUVImageTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/coding_soft/mingw64/bin/mingw32-make.exe -f &quot;D:/workplace_cpp/YUVImageTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="YUVImageTest/fast">
+				<Option output="D:/workplace_cpp/YUVImageTest/cmake-build-debug/YUVImageTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/workplace_cpp/YUVImageTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/coding_soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/coding_soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/coding_soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/coding_soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/coding_soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/coding_soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/coding_soft/mingw64/bin/mingw32-make.exe -f &quot;D:/workplace_cpp/YUVImageTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 YUVImageTest/fast"/>
+					<CompileFile command="D:/coding_soft/mingw64/bin/mingw32-make.exe -f &quot;D:/workplace_cpp/YUVImageTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/coding_soft/mingw64/bin/mingw32-make.exe -f &quot;D:/workplace_cpp/YUVImageTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/coding_soft/mingw64/bin/mingw32-make.exe -f &quot;D:/workplace_cpp/YUVImageTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/workplace_cpp/YUVImageTest/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/coding_soft/mingw64/bin/mingw32-make.exe -f &quot;D:/workplace_cpp/YUVImageTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/coding_soft/mingw64/bin/mingw32-make.exe -f &quot;D:/workplace_cpp/YUVImageTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/coding_soft/mingw64/bin/mingw32-make.exe -f &quot;D:/workplace_cpp/YUVImageTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/coding_soft/mingw64/bin/mingw32-make.exe -f &quot;D:/workplace_cpp/YUVImageTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/workplace_cpp/YUVImageTest/YUVImage.cpp">
+			<Option target="YUVImageTest"/>
+		</Unit>
+		<Unit filename="D:/workplace_cpp/YUVImageTest/include/YUVImage.h">
+			<Option target="YUVImageTest"/>
+		</Unit>
+		<Unit filename="D:/workplace_cpp/YUVImageTest/main.cpp">
+			<Option target="YUVImageTest"/>
+		</Unit>
+		<Unit filename="D:/workplace_cpp/YUVImageTest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

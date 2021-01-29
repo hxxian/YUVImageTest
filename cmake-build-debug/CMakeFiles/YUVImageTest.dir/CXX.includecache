@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/workplace_cpp/YUVImageTest/include/YUVImage.h
+
+D:/workplace_cpp/YUVImageTest/main.cpp
+iostream
+-
+include/YUVImage.h
+D:/workplace_cpp/YUVImageTest/include/YUVImage.h
+
