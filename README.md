@@ -13,4 +13,4 @@
 
 更多音视频图像处理相关技术，可关注公众号或加微信，一起交流技术哦~
 
-![](https://cdn.hxxian.cn/static/image/followme_300.jpg)
+![followme_300](followme_300.jpg)
